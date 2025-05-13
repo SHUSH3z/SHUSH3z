@@ -56,6 +56,5 @@ Minha contribuição principal está no **back-end**, desenvolvendo APIs e a ló
 📫 **Vamos nos conectar?**  
 ---
 
-📫 **Vamos nos conectar?**  
 [LinkedIn](https://www.linkedin.com/in/logan-ramos) • [Email](mailto:loganramos123@gmail.com) • [WhatsApp](https://wa.me/5541992702041)
 
