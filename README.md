@@ -1,6 +1,6 @@
 # Olá! Eu sou o Logan Ramos 👋
 
-💻 Desenvolvedor Full Stack em formação, com foco em **front-end com React** e **back-end com Go (Golang)**.  
+💻 Engenheiro de Software em formação, com foco em **front-end com React** e **back-end com Go (Golang)**.  
 🚀 Apaixonado por tecnologia, estou sempre buscando evoluir minhas habilidades e construir soluções que façam a diferença.  
 🎯 Atualmente aprimorando minhas stacks com projetos práticos e estudo contínuo.
 
